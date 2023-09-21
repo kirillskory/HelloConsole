@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kskor\\OneDrive\\Рабочий стол\\Examples\\Example001HelloConsole\\Example001HelloConsole.csproj": {}
+    "c:\\Users\\kskor\\OneDrive\\Рабочий стол\\Examples\\Example001HelloConsole\\Example001HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kskor\\OneDrive\\Рабочий стол\\Examples\\Example001HelloConsole\\Example001HelloConsole.csproj": {
+    "c:\\Users\\kskor\\OneDrive\\Рабочий стол\\Examples\\Example001HelloConsole\\Example001HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kskor\\OneDrive\\Рабочий стол\\Examples\\Example001HelloConsole\\Example001HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\kskor\\OneDrive\\Рабочий стол\\Examples\\Example001HelloConsole\\Example001HelloConsole.csproj",
         "projectName": "Example001HelloConsole",
-        "projectPath": "C:\\Users\\kskor\\OneDrive\\Рабочий стол\\Examples\\Example001HelloConsole\\Example001HelloConsole.csproj",
+        "projectPath": "c:\\Users\\kskor\\OneDrive\\Рабочий стол\\Examples\\Example001HelloConsole\\Example001HelloConsole.csproj",
         "packagesPath": "C:\\Users\\kskor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kskor\\OneDrive\\Рабочий стол\\Examples\\Example001HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\kskor\\OneDrive\\Рабочий стол\\Examples\\Example001HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kskor\\AppData\\Roaming\\NuGet\\NuGet.Config"
